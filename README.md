@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with the Systems Development Class: SENAI, Luzerna, SC, Brazil
 - 📫 How to reach me: fingerdevfinger@gmail.com
 - 😄 Pronouns: all together and committed we are more efficient!
-- ⚡ Fun fact: Learning happens in every ...
+- ⚡ Fun fact: Learning happens in every moments...
 
 <!---
 Finger-Dev/Finger-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
